@@ -1,0 +1,2829 @@
+ARTICLES FOUND VIA DEEP SCRAPE
+================================================================================
+
+
+ARTICLE (324 articles):
+--------------------------------------------------------------------------------
+ID: 472
+Title: The Mysterious Disappearance of the White House Speech Archive
+Abstract Length: 535 chars
+File: 19960805_v1_n2/472_The Mysterious Disappearance of the White House Speech Archive.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/472
+
+ID: 473
+Title: Differential Pricing and Efficiency
+Abstract Length: 557 chars
+File: 19960805_v1_n2/473_Differential Pricing and Efficiency.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/473
+
+ID: 475
+Title: Trust in electronic markets
+Abstract Length: 536 chars
+File: 19960805_v1_n2/475_Trust in electronic markets.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/475
+
+ID: 476
+Title: Prospects for remailers
+Abstract Length: 575 chars
+File: 19960805_v1_n2/476_Prospects for remailers.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/476
+
+ID: 480
+Title: Indonesia: From mainstream to alternative media
+Abstract Length: 448 chars
+File: 19960902_v1_n3/480_Indonesia From mainstream to alternative media.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/480
+
+ID: 489
+Title: On authors' rights in cyberspace: Questioning the need for new interna
+Abstract Length: 533 chars
+File: 19961007_v1_n4/489_On authors' rights in cyberspace Questioning the need for new international rules on authors' rights.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/489
+
+ID: 490
+Title: Lex Networkia: Understanding the Internet community
+Abstract Length: 439 chars
+File: 19961007_v1_n4/490_Lex Networkia Understanding the Internet community.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/490
+
+ID: 500
+Title: A prophecy and a solution
+Abstract Length: 445 chars
+File: 19961202_v1_n6/500_A prophecy and a solution.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/500
+
+ID: 501
+Title: Foundation
+Abstract Length: 430 chars
+File: 19961202_v1_n6/501_Foundation.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/501
+
+ID: 502
+Title: Why computers are ineffective today
+Abstract Length: 455 chars
+File: 19961202_v1_n6/502_Why computers are ineffective today.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/502
+
+ID: 505
+Title: Section IV: Computer Advantages
+Abstract Length: 514 chars
+File: 19970106_v2_n1/505_Section IV Computer Advantages.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/505
+
+ID: 506
+Title: Section V: New Teachers and Schools
+Abstract Length: 518 chars
+File: 19970106_v2_n1/506_Section V New Teachers and Schools.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/506
+
+ID: 507
+Title: Section VI: Additional Considerations
+Abstract Length: 520 chars
+File: 19970106_v2_n1/507_Section VI Additional Considerations.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/507
+
+ID: 515
+Title: Intelligent Software Agents on the Internet: Chapters 4-5
+Abstract Length: 526 chars
+File: 19970303_v2_n3/515_Intelligent Software Agents on the Internet Chapters 4-5.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/515
+
+ID: 516
+Title: Intelligent Software Agents on the Internet: Chapters 6-7
+Abstract Length: 526 chars
+File: 19970303_v2_n3/516_Intelligent Software Agents on the Internet Chapters 6-7.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/516
+
+ID: 538
+Title: Monetary Policy Implications of Electronic Money
+Abstract Length: 487 chars
+File: 19970707_v2_n7/538_Monetary Policy Implications of Electronic Money.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/538
+
+ID: 542
+Title: The Economics of Electronic Journals
+Abstract Length: 527 chars
+File: 19970804_v2_n8/542_The Economics of Electronic Journals.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/542
+
+ID: 549
+Title: Attention, Media, Value and Economics
+Abstract Length: 544 chars
+File: 19970901_v2_n9/549_Attention, Media, Value and Economics.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/549
+
+ID: 554
+Title: Taxation of Internet Commerce
+Abstract Length: 497 chars
+File: 19971006_v2_n10/554_Taxation of Internet Commerce.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/554
+
+ID: 559
+Title: Changing the galaxy: On the transformation of a printed journal to the
+Abstract Length: 542 chars
+File: 19971103_v2_n11/559_Changing the galaxy On the transformation of a printed journal to the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/559
+
+ID: 566
+Title: The Challenge of Openness as European Union Information goes Electroni
+Abstract Length: 477 chars
+File: 19971201_v2_n12/566_The Challenge of Openness as European Union Information goes Electronic.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/566
+
+ID: 572
+Title: Global Conversations: New Horizons for Information Professionals
+Abstract Length: 526 chars
+File: 19980105_v3_n1/572_Global Conversations New Horizons for Information Professionals.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/572
+
+ID: 582
+Title: Personal boundaries/global stage
+Abstract Length: 483 chars
+File: 19980302_v3_n3/582_Personal boundariesglobal stage.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/582
+
+ID: 594
+Title: A Typology for Ready Reference Web Sites in Libraries
+Abstract Length: 552 chars
+File: 19980504_v3_n5/594_A Typology for Ready Reference Web Sites in Libraries.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/594
+
+ID: 597
+Title: Celebrating First Monday
+Abstract Length: 441 chars
+File: 19980601_v3_n6/597_Celebrating First Monday.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/597
+
+ID: 605
+Title: Netizens: On the History and Impact of Usenet and the Internet
+Abstract Length: 491 chars
+File: 19980706_v3_n7/605_Netizens On the History and Impact of Usenet and the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/605
+
+ID: 607
+Title: The Net and Netizens: The Impact of the Net on People's Lives (Chapter
+Abstract Length: 502 chars
+File: 19980706_v3_n7/607_The Net and Netizens The Impact of the Net on People's Lives (Chapter 1).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/607
+
+ID: 608
+Title: The Evolution of Usenet: The Poor Man's ARPANET (Chapter 2)
+Abstract Length: 488 chars
+File: 19980706_v3_n7/608_The Evolution of Usenet The Poor Man's ARPANET (Chapter 2).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/608
+
+ID: 609
+Title: The Social Forces Behind the Development of Usenet (Chapter 3)
+Abstract Length: 491 chars
+File: 19980706_v3_n7/609_The Social Forces Behind the Development of Usenet (Chapter 3).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/609
+
+ID: 611
+Title: Cybernetics, Time-Sharing, Human-Computer Symbiosis and Online Communi
+Abstract Length: 566 chars
+File: 19980803_v3_n8/611_Cybernetics, Time-Sharing, Human-Computer Symbiosis and Online Communities Creating a Supercommunity.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/611
+
+ID: 612
+Title: Behind the Net: The Untold Story of the ARPANET and Computer Science (
+Abstract Length: 511 chars
+File: 19980803_v3_n8/612_Behind the Net The Untold Story of the ARPANET and Computer Science (Chapter 7).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/612
+
+ID: 613
+Title: On the Early Days of Usenet: The Roots of the Cooperative Online Cultu
+Abstract Length: 517 chars
+File: 19980803_v3_n8/613_On the Early Days of Usenet The Roots of the Cooperative Online Culture. (Chapter 10).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/613
+
+ID: 614
+Title: Proposed Declaration of the Rights of Netizens
+Abstract Length: 477 chars
+File: 19980803_v3_n8/614_Proposed Declaration of the Rights of Netizens.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/614
+
+ID: 617
+Title: Predicting E-mail Effects in Organisations
+Abstract Length: 507 chars
+File: 19980907_v3_n9/617_Predicting E-mail Effects in Organisations.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/617
+
+ID: 618
+Title: Higher education: From craft-production to capitalist enterprise?
+Abstract Length: 439 chars
+File: 19980907_v3_n9/618_Higher education From craft-production to capitalist enterprise.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/618
+
+ID: 623
+Title: L'Internet - Trésor Public International: Une Proposition
+Abstract Length: 436 chars
+File: 19981005_v3_n10/623_L'Internet - Trésor Public International Une Proposition.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/623
+
+ID: 624
+Title: A Taxonomy of Internet Commerce
+Abstract Length: 513 chars
+File: 19981005_v3_n10/624_A Taxonomy of Internet Commerce.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/624
+
+ID: 629
+Title: A short analysis of verbal and visual elements in the English of World
+Abstract Length: 456 chars
+File: 19981102_v3_n11/629_A short analysis of verbal and visual elements in the English of World Wide Web pages.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/629
+
+ID: 647
+Title: Technology and pleasure: Considering hacking constructive
+Abstract Length: 559 chars
+File: 19990201_v4_n2/647_Technology and pleasure Considering hacking constructive.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/647
+
+ID: 653
+Title: Policy and participation on the Canadian information highway
+Abstract Length: 566 chars
+File: 19990301_v4_n3/653_Policy and participation on the Canadian information highway.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/653
+
+ID: 670
+Title: Information Ecologies: Using Technology with Heart - Chapter One: Rotw
+Abstract Length: 512 chars
+File: 19990503_v4_n5/670_Information Ecologies Using Technology with Heart - Chapter One Rotwang the Inventor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/670
+
+ID: 671
+Title: Information Ecologies: Using Technology with Heart - Chapter Two: Fram
+Abstract Length: 530 chars
+File: 19990503_v4_n5/671_Information Ecologies Using Technology with Heart - Chapter Two Framing Conversations about Technolo.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/671
+
+ID: 672
+Title: Information Ecologies: Using Technology with Heart - Chapter Four: Inf
+Abstract Length: 514 chars
+File: 19990503_v4_n5/672_Information Ecologies Using Technology with Heart - Chapter Four Information Ecologies.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/672
+
+ID: 678
+Title: First Monday Letters.
+Abstract Length: 460 chars
+File: 19990607_v4_n6/678_First Monday Letters..json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/678
+
+ID: 694
+Title: Hacking memes
+Abstract Length: 434 chars
+File: 19991004_v4_n10/694_Hacking memes.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/694
+
+ID: 696
+Title: Open source software development as a special type of academic researc
+Abstract Length: 440 chars
+File: 19991004_v4_n10/696_Open source software development as a special type of academic research Critique of vulgar Raymondis.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/696
+
+ID: 702
+Title: A response to Nikolai Bezroukov
+Abstract Length: 457 chars
+File: 19991101_v4_n11/702_A response to Nikolai Bezroukov.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/702
+
+ID: 708
+Title: A second look at the Cathedral and the Bazaar
+Abstract Length: 560 chars
+File: 19991206_v4_n12/708_A second look at the Cathedral and the Bazaar.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/708
+
+ID: 711
+Title: Showdown in Seattle: Turtles, Teamsters and tear gas
+Abstract Length: 474 chars
+File: 19991206_v4_n12/711_Showdown in Seattle Turtles, Teamsters and tear gas.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/711
+
+ID: 712
+Title: First Monday news
+Abstract Length: 469 chars
+File: 19991206_v4_n12/712_First Monday news.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/712
+
+ID: 720
+Title: Interactive features of online newspapers
+Abstract Length: 475 chars
+File: 20000103_v5_n1/720_Interactive features of online newspapers.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/720
+
+ID: 724
+Title: First Monday News
+Abstract Length: 468 chars
+File: 20000103_v5_n1/724_First Monday News.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/724
+
+ID: 731
+Title: Linux: A bazaar at the edge of chaos
+Abstract Length: 454 chars
+File: 20000306_v5_n3/731_Linux A bazaar at the edge of chaos.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/731
+
+ID: 733
+Title: Traveling with communication technologies in space, time and everyday 
+Abstract Length: 528 chars
+File: 20000306_v5_n3/733_Traveling with communication technologies in space, time and everyday life An exploration of their i.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/733
+
+ID: 734
+Title: Defamation havens
+Abstract Length: 464 chars
+File: 20000306_v5_n3/734_Defamation havens.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/734
+
+ID: 738
+Title: The social life of information - Chapter one: Limits to information
+Abstract Length: 499 chars
+File: 20000403_v5_n4/738_The social life of information - Chapter one Limits to information.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/738
+
+ID: 739
+Title: The social life of information - Chapter two: Agents and angels
+Abstract Length: 495 chars
+File: 20000403_v5_n4/739_The social life of information - Chapter two Agents and angels.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/739
+
+ID: 740
+Title: The social life of information - Chapter three: Home alone
+Abstract Length: 490 chars
+File: 20000403_v5_n4/740_The social life of information - Chapter three Home alone.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/740
+
+ID: 741
+Title: It's not what you know it's who you know
+Abstract Length: 540 chars
+File: 20000501_v5_n5/741_It's not what you know it's who you know.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/741
+
+ID: 754
+Title: Linking Florida's natural heritage: Science and citizenry
+Abstract Length: 495 chars
+File: 20000605_v5_n6/754_Linking Florida's natural heritage Science and citizenry.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/754
+
+ID: 755
+Title: Collaboration through the Colorado digitization project
+Abstract Length: 479 chars
+File: 20000605_v5_n6/755_Collaboration through the Colorado digitization project.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/755
+
+ID: 758
+Title: Digitizing and preserving plant images: Linking plant images and datab
+Abstract Length: 458 chars
+File: 20000605_v5_n6/758_Digitizing and preserving plant images Linking plant images and databases for public access.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/758
+
+ID: 761
+Title: Children Shaping the Future of Digital Libraries
+Abstract Length: 462 chars
+File: 20000605_v5_n6/761_Children Shaping the Future of Digital Libraries.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/761
+
+ID: 771
+Title: Software agents take the Internet as a shortcut to enter society: A su
+Abstract Length: 533 chars
+File: 20000703_v5_n7/771_Software agents take the Internet as a shortcut to enter society A survey of new actors to study for.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/771
+
+ID: 772
+Title: The use of focus groups in the design and development of a national la
+Abstract Length: 495 chars
+File: 20000703_v5_n7/772_The use of focus groups in the design and development of a national labor exchange system.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/772
+
+ID: 777
+Title: Cyberporn: The controversy
+Abstract Length: 464 chars
+File: 20000807_v5_n8/777_Cyberporn The controversy.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/777
+
+ID: 778
+Title: Non-repudiation in the digital environment
+Abstract Length: 476 chars
+File: 20000807_v5_n8/778_Non-repudiation in the digital environment.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/778
+
+ID: 783
+Title: Caught in/on the Web: To publish without perishing in the Digital Age
+Abstract Length: 474 chars
+File: 20000807_v5_n8/783_Caught inon the Web To publish without perishing in the Digital Age.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/783
+
+ID: 784
+Title: The premise and promise of a Global Information Infrastructure
+Abstract Length: 483 chars
+File: 20000807_v5_n8/784_The premise and promise of a Global Information Infrastructure.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/784
+
+ID: 788
+Title: Internet and society in Armenia and Azerbaijan? Web games and a chroni
+Abstract Length: 507 chars
+File: 20000904_v5_n9/788_Internet and society in Armenia and Azerbaijan Web games and a chronicle of an infowar.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/788
+
+ID: 798
+Title: The given and the made: Authenticity and nature in virtual education
+Abstract Length: 549 chars
+File: 20001002_v5_n10/798_The given and the made Authenticity and nature in virtual education.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/798
+
+ID: 799
+Title: Al Gore and the creation of the Internet
+Abstract Length: 462 chars
+File: 20001002_v5_n10/799_Al Gore and the creation of the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/799
+
+ID: 803
+Title: Creating an African virtual community college: Issues and challenges
+Abstract Length: 520 chars
+File: 20001105_v5_n11/803_Creating an African virtual community college Issues and challenges.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/803
+
+ID: 820
+Title: The digital divide in the liberal state: A Canadian perspective
+Abstract Length: 541 chars
+File: 20001204_v5_n12/820_The digital divide in the liberal state A Canadian perspective.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/820
+
+ID: 824
+Title: Internet, innovation, and open source: Actors in the network
+Abstract Length: 544 chars
+File: 20010108_v6_n1/824_Internet, innovation, and open source Actors in the network.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/824
+
+ID: 826
+Title: The regulation of BBS in China People Daily
+Abstract Length: 535 chars
+File: 20010108_v6_n1/826_The regulation of BBS in China People Daily.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/826
+
+ID: 840
+Title: Virtual connections: Community bonding on the Net
+Abstract Length: 535 chars
+File: 20010305_v6_n3/840_Virtual connections Community bonding on the Net.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/840
+
+ID: 841
+Title: The Big Lie and the great newspaper caper
+Abstract Length: 460 chars
+File: 20010305_v6_n3/841_The Big Lie and the great newspaper caper.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/841
+
+ID: 842
+Title: A response to Mr. Henderson
+Abstract Length: 443 chars
+File: 20010305_v6_n3/842_A response to Mr. Henderson.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/842
+
+ID: 845
+Title: Mobile library literacy: Solutions for a rural environment
+Abstract Length: 579 chars
+File: 20010402_v6_n4/845_Mobile library literacy Solutions for a rural environment.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/845
+
+ID: 846
+Title: Growing a National Learning Environments and Resources Network for Sci
+Abstract Length: 542 chars
+File: 20010402_v6_n4/846_Growing a National Learning Environments and Resources Network for Science, Mathematics, Engineering.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/846
+
+ID: 847
+Title: Afya: Social and digital technologies that reach across the digital di
+Abstract Length: 570 chars
+File: 20010402_v6_n4/847_Afya Social and digital technologies that reach across the digital divide.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/847
+
+ID: 850
+Title: Teacher's palette
+Abstract Length: 454 chars
+File: 20010402_v6_n4/850_Teacher's palette.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/850
+
+ID: 853
+Title: Boyle Heights: Neighborhood sites and insights, a multicultural commun
+Abstract Length: 555 chars
+File: 20010402_v6_n4/853_Boyle Heights Neighborhood sites and insights, a multicultural community partnership initiative of t.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/853
+
+ID: 854
+Title: Circulating libraries and video rental stores
+Abstract Length: 430 chars
+File: 20010507_v6_n5/854_Circulating libraries and video rental stores.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/854
+
+ID: 862
+Title: Of Jeff Bezos and Leo Durocher
+Abstract Length: 445 chars
+File: 20010507_v6_n5/862_Of Jeff Bezos and Leo Durocher.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/862
+
+ID: 867
+Title: Internet teaching and the administration of knowledge
+Abstract Length: 470 chars
+File: 20010604_v6_n6/867_Internet teaching and the administration of knowledge.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/867
+
+ID: 868
+Title: Lessons from open source: Intellectual property and courseware
+Abstract Length: 460 chars
+File: 20010604_v6_n6/868_Lessons from open source Intellectual property and courseware.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/868
+
+ID: 878
+Title: Computer architectures for personal space: Forms-based reasoning in th
+Abstract Length: 520 chars
+File: 20010806_v6_n8/878_Computer architectures for personal space Forms-based reasoning in the domain of humanistic intellig.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/878
+
+ID: 881
+Title: The Neo Sophists: Intellectual integrity in the Information Age
+Abstract Length: 579 chars
+File: 20010806_v6_n8/881_The Neo Sophists Intellectual integrity in the Information Age.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/881
+
+ID: 890
+Title: The effects of September 11 on the leading search engine
+Abstract Length: 446 chars
+File: 20011001_v6_n10/890_The effects of September 11 on the leading search engine.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/890
+
+ID: 894
+Title: Offshore e-money issuers and monetary policy
+Abstract Length: 520 chars
+File: 20011001_v6_n10/894_Offshore e-money issuers and monetary policy.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/894
+
+ID: 896
+Title: Unexploited resources of online education for democracy: Why the futur
+Abstract Length: 546 chars
+File: 20011105_v6_n11/896_Unexploited resources of online education for democracy Why the future should belong to OpenCourseWa.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/896
+
+ID: 902
+Title: Free software/free science
+Abstract Length: 450 chars
+File: 20011203_v6_n12/902_Free softwarefree science.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/902
+
+ID: 929
+Title: Informational Value of Museum Web Sites
+Abstract Length: 437 chars
+File: 20020204_v7_n2/929_Informational Value of Museum Web Sites.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/929
+
+ID: 933
+Title: What the Cultural Sector Can Learn from Enron
+Abstract Length: 463 chars
+File: 20020204_v7_n2/933_What the Cultural Sector Can Learn from Enron.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/933
+
+ID: 935
+Title: A Tangled World Wide Web of Security Issues
+Abstract Length: 499 chars
+File: 20020304_v7_n3/935_A Tangled World Wide Web of Security Issues.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/935
+
+ID: 936
+Title: Self-Selection Strategies for Information Goods
+Abstract Length: 485 chars
+File: 20020304_v7_n3/936_Self-Selection Strategies for Information Goods.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/936
+
+ID: 939
+Title: A Mythic Perspective of Commodification on the World Wide Web
+Abstract Length: 535 chars
+File: 20020304_v7_n3/939_A Mythic Perspective of Commodification on the World Wide Web.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/939
+
+ID: 941
+Title: Uncloaking Terrorist Networks
+Abstract Length: 436 chars
+File: 20020401_v7_n4/941_Uncloaking Terrorist Networks.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/941
+
+ID: 944
+Title: Independent Media Centers: Cyber-Subversion and the Alternative Press
+Abstract Length: 482 chars
+File: 20020401_v7_n4/944_Independent Media Centers Cyber-Subversion and the Alternative Press.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/944
+
+ID: 949
+Title: Digital Collections, Digital Libraries and the Digitization of Cultura
+Abstract Length: 540 chars
+File: 20020506_v7_n5/949_Digital Collections, Digital Libraries and the Digitization of Cultural Heritage Information.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/949
+
+ID: 952
+Title: Museums in the Online Archive of California (MOAC): Building Digital C
+Abstract Length: 525 chars
+File: 20020506_v7_n5/952_Museums in the Online Archive of California (MOAC) Building Digital Collections Across Libraries and.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/952
+
+ID: 953
+Title: Museums and the Online Archive of California
+Abstract Length: 552 chars
+File: 20020506_v7_n5/953_Museums and the Online Archive of California.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/953
+
+ID: 954
+Title: Feeding America: Lessons from a Project Demonstration
+Abstract Length: 552 chars
+File: 20020506_v7_n5/954_Feeding America Lessons from a Project Demonstration.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/954
+
+ID: 957
+Title: Electric Symbols: Internet Words And Culture
+Abstract Length: 529 chars
+File: 20020603_v7_n6/957_Electric Symbols Internet Words And Culture.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/957
+
+ID: 964
+Title: The Medical Journal Meets the Internet
+Abstract Length: 473 chars
+File: 20020603_v7_n6/964_The Medical Journal Meets the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/964
+
+ID: 967
+Title: Reconceptualizing the Digital Divide
+Abstract Length: 491 chars
+File: 20020701_v7_n7/967_Reconceptualizing the Digital Divide.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/967
+
+ID: 971
+Title: After the Dot-Bomb: Getting Web Information Retrieval Right This Time
+Abstract Length: 436 chars
+File: 20020701_v7_n7/971_After the Dot-Bomb Getting Web Information Retrieval Right This Time.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/971
+
+ID: 974
+Title: Rip, Mix, Burn: The Politics of Peer to Peer and Copyright Law
+Abstract Length: 568 chars
+File: 20020805_v7_n8/974_Rip, Mix, Burn The Politics of Peer to Peer and Copyright Law.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/974
+
+ID: 979
+Title: Online Mission Statements: Briefly Stated
+Abstract Length: 475 chars
+File: 20020805_v7_n8/979_Online Mission Statements Briefly Stated.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/979
+
+ID: 983
+Title: Children's Use of New Technology for Picture-Taking
+Abstract Length: 464 chars
+File: 20020902_v7_n9/983_Children's Use of New Technology for Picture-Taking.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/983
+
+ID: 993
+Title: Hypertext Links: Whither Thou Goest, and Why
+Abstract Length: 520 chars
+File: 20021007_v7_n10/993_Hypertext Links Whither Thou Goest, and Why.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/993
+
+ID: 996
+Title: The Digital Divide or the Digital Connection: A U.S. Perspective
+Abstract Length: 484 chars
+File: 20021007_v7_n10/996_The Digital Divide or the Digital Connection A U.S. Perspective.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/996
+
+ID: 998
+Title: Hacktivists or Cyberterrorists? The Changing Media Discourse on Hackin
+Abstract Length: 502 chars
+File: 20021007_v7_n10/998_Hacktivists or Cyberterrorists The Changing Media Discourse on Hacking.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/998
+
+ID: 1016
+Title: Index to volume 7 (2002) of First Monday
+Abstract Length: 469 chars
+File: 20021202_v7_n12/1016_Index to volume 7 (2002) of First Monday.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1016
+
+ID: 1021
+Title: A Critical Analysis of the Adoption and Utilization of the Internet in
+Abstract Length: 513 chars
+File: 20030106_v8_n1/1021_A Critical Analysis of the Adoption and Utilization of the Internet in Thailand for Educational Purp.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1021
+
+ID: 1022
+Title: Combat Power and Enterprise Competitiveness
+Abstract Length: 536 chars
+File: 20030106_v8_n1/1022_Combat Power and Enterprise Competitiveness.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1022
+
+ID: 1024
+Title: Open Networks, Closed Regimes: The Impact of the Internet on Authorita
+Abstract Length: 532 chars
+File: 20030106_v8_n1/1024_Open Networks, Closed Regimes The Impact of the Internet on Authoritarian Rule (Table of Contents).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1024
+
+ID: 1025
+Title: Open Networks, Closed Regimes: The Impact of the Internet on Authorita
+Abstract Length: 522 chars
+File: 20030106_v8_n1/1025_Open Networks, Closed Regimes The Impact of the Internet on Authoritarian Rule (Forward).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1025
+
+ID: 1026
+Title: Open Networks, Closed Regimes: The Impact of the Internet on Authorita
+Abstract Length: 531 chars
+File: 20030106_v8_n1/1026_Open Networks, Closed Regimes The Impact of the Internet on Authoritarian Rule (Acknowledgements).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1026
+
+ID: 1027
+Title: Open Networks, Closed Regimes: The Impact of the Internet on Authorita
+Abstract Length: 568 chars
+File: 20030106_v8_n1/1027_Open Networks, Closed Regimes The Impact of the Internet on Authoritarian Rule (Chapter 1 The Conven.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1027
+
+ID: 1028
+Title: Open Networks, Closed Regimes: The Impact of the Internet on Authorita
+Abstract Length: 557 chars
+File: 20030106_v8_n1/1028_Open Networks, Closed Regimes The Impact of the Internet on Authoritarian Rule (Chapter 2 Wired for .json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1028
+
+ID: 1035
+Title: Cybermethods: An assessment
+Abstract Length: 537 chars
+File: 20030203_v8_n2/1035_Cybermethods An assessment.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1035
+
+ID: 1046
+Title: Research note: Across the United States, 85,000 to 144,000 public comp
+Abstract Length: 500 chars
+File: 20030407_v8_n4/1046_Research note Across the United States, 85,000 to 144,000 public computing sites.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1046
+
+ID: 1049
+Title: Creating the Digital Future
+Abstract Length: 478 chars
+File: 20030505_v8_n5/1049_Creating the Digital Future.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1049
+
+ID: 1052
+Title: OpenKey: Illinois-North Carolina Collaborative Environment for Botanic
+Abstract Length: 545 chars
+File: 20030505_v8_n5/1052_OpenKey Illinois-North Carolina Collaborative Environment for Botanical Resources.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1052
+
+ID: 1060
+Title: Toward a model of information policy analysis: Speech as an illustrati
+Abstract Length: 489 chars
+File: 20030602_v8_n6/1060_Toward a model of information policy analysis Speech as an illustrative example.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1060
+
+ID: 1069
+Title: A social ecology of wireless technology
+Abstract Length: 452 chars
+File: 20030804_v8_n8/1069_A social ecology of wireless technology.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1069
+
+ID: 1077
+Title: Wireless Internet connectivity for developing nations
+Abstract Length: 473 chars
+File: 20030901_v8_n9/1077_Wireless Internet connectivity for developing nations.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1077
+
+ID: 1094
+Title: Coding the classroom: Technology and the practice of language
+Abstract Length: 482 chars
+File: 20031103_v8_n11/1094_Coding the classroom Technology and the practice of language.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1094
+
+ID: 1102
+Title: The Internet and the right to communicate
+Abstract Length: 542 chars
+File: 20031201_v8_n12/1102_The Internet and the right to communicate.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1102
+
+ID: 1107
+Title: Effective use: A community informatics strategy beyond the Digital Div
+Abstract Length: 535 chars
+File: 20031201_v8_n12/1107_Effective use A community informatics strategy beyond the Digital Divide.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1107
+
+ID: 1110
+Title: Spinning yarns around the digital fire: Storytelling and dialogue amon
+Abstract Length: 514 chars
+File: 20040105_v9_n1/1110_Spinning yarns around the digital fire Storytelling and dialogue among youth on the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1110
+
+ID: 1113
+Title: Altruistic individuals, selfish firms? The structure of motivation in 
+Abstract Length: 522 chars
+File: 20040105_v9_n1/1113_Altruistic individuals, selfish firms The structure of motivation in Open Source software.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1113
+
+ID: 1115
+Title: Index to volume 8 (2003) of First Monday
+Abstract Length: 465 chars
+File: 20040105_v9_n1/1115_Index to volume 8 (2003) of First Monday.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1115
+
+ID: 1118
+Title: Factors affecting Internet development: An Asian survey
+Abstract Length: 561 chars
+File: 20040202_v9_n2/1118_Factors affecting Internet development An Asian survey.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1118
+
+ID: 1125
+Title: The tensions of securing cyberspace: The Internet, state power and The
+Abstract Length: 568 chars
+File: 20040301_v9_n3/1125_The tensions of securing cyberspace The Internet, state power and The National Strategy to Secure Cy.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1125
+
+ID: 1140
+Title: Keynote at The Field Museum
+Abstract Length: 444 chars
+File: 20040503_v9_n5/1140_Keynote at The Field Museum.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1140
+
+ID: 1142
+Title: The power and problems of public media
+Abstract Length: 456 chars
+File: 20040503_v9_n5/1142_The power and problems of public media.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1142
+
+ID: 1148
+Title: Building on success, forging new ground: The question of sustainabilit
+Abstract Length: 530 chars
+File: 20040503_v9_n5/1148_Building on success, forging new ground The question of sustainability.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1148
+
+ID: 1150
+Title: Lessons from the Silurian: On digitization and the human element
+Abstract Length: 485 chars
+File: 20040503_v9_n5/1150_Lessons from the Silurian On digitization and the human element.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1150
+
+ID: 1166
+Title: Who benefits from the digital divide?
+Abstract Length: 510 chars
+File: 20040802_v9_n8/1166_Who benefits from the digital divide.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1166
+
+ID: 1189
+Title: Free software: Some Brazilian translations
+Abstract Length: 501 chars
+File: 20041101_v9_n11/1189_Free software Some Brazilian translations.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1189
+
+ID: 1196
+Title: Libraries and university presses can collaborate to improve scholarly 
+Abstract Length: 475 chars
+File: 20041206_v9_n12/1196_Libraries and university presses can collaborate to improve scholarly communication or Why can’t we .json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1196
+
+ID: 1215
+Title: The Iraq insurgency: Anatomy of a tribal rebellion
+Abstract Length: 462 chars
+File: 20050307_v10_n3/1215_The Iraq insurgency Anatomy of a tribal rebellion.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1215
+
+ID: 1218
+Title: ‘Public eyes’: Direct accountability in an information age
+Abstract Length: 503 chars
+File: 20050404_v10_n4/1218_‘Public eyes’ Direct accountability in an information age.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1218
+
+ID: 1220
+Title: Computer–aided music distribution: The future of selection, retrieval 
+Abstract Length: 466 chars
+File: 20050404_v10_n4/1220_Computer–aided music distribution The future of selection, retrieval and transmission.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1220
+
+ID: 1222
+Title: On becoming a Web site
+Abstract Length: 557 chars
+File: 20050404_v10_n4/1222_On becoming a Web site.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1222
+
+ID: 1224
+Title: Where does Web bibliographies’ author information come from?
+Abstract Length: 522 chars
+File: 20050404_v10_n4/1224_Where does Web bibliographies’ author information come from.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1224
+
+ID: 1236
+Title: Virtual dissection and physical collaboration
+Abstract Length: 561 chars
+File: 20050502_v10_n5/1236_Virtual dissection and physical collaboration.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1236
+
+ID: 1243
+Title: De–unifying a digital library
+Abstract Length: 569 chars
+File: 20050502_v10_n5/1243_De–unifying a digital library.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1243
+
+ID: 1250
+Title: Engaging the public with digital primary sources: A tri–state online h
+Abstract Length: 570 chars
+File: 20050606_v10_n6/1250_Engaging the public with digital primary sources A tri–state online history database and learning ce.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1250
+
+ID: 1254
+Title: Less is more in Web search interfaces for older adults
+Abstract Length: 576 chars
+File: 20050704_v10_n7/1254_Less is more in Web search interfaces for older adults.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1254
+
+ID: 1261
+Title: Survey of Web–based educational resources in selected U.S. art museums
+Abstract Length: 578 chars
+File: 20050704_v10_n7/1261_Survey of Web–based educational resources in selected U.S. art museums.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1261
+
+ID: 1270
+Title: From genesis to revelation of an online resource: The North Carolina H
+Abstract Length: 555 chars
+File: 20050801_v10_n8/1270_From genesis to revelation of an online resource The North Carolina History and Fiction Digital Libr.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1270
+
+ID: 1276
+Title: Software and seeds: Open source methods
+Abstract Length: 437 chars
+File: 20050905_v10_n9/1276_Software and seeds Open source methods.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1276
+
+ID: 1277
+Title: Using virtual lectures to educate students on plagiarism
+Abstract Length: 523 chars
+File: 20050905_v10_n9/1277_Using virtual lectures to educate students on plagiarism.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1277
+
+ID: 1281
+Title: Geography matters: Mapping human development and digital access
+Abstract Length: 544 chars
+File: 20051003_v10_n10/1281_Geography matters Mapping human development and digital access.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1281
+
+ID: 1282
+Title: Descriptive metadata for copyright status
+Abstract Length: 568 chars
+File: 20051003_v10_n10/1282_Descriptive metadata for copyright status.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1282
+
+ID: 1284
+Title: Open source software development: Some historical perspectives
+Abstract Length: 514 chars
+File: 20051003_v10_n10/1284_Open source software development Some historical perspectives.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1284
+
+ID: 1301
+Title: The use of the Internet to activate latent ties in scholarly communiti
+Abstract Length: 445 chars
+File: 20051205_v10_n12/1301_The use of the Internet to activate latent ties in scholarly communities.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1301
+
+ID: 1512
+Title: Digital Money, Liquidity, and Monetary Policy (originally published in
+Abstract Length: 487 chars
+File: 20051205_vSE_n3/1512_Digital Money, Liquidity, and Monetary Policy (originally published in July 1997).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1512
+
+ID: 1306
+Title: The legal and practical implications of recent attacks on 128-bit cryp
+Abstract Length: 534 chars
+File: 20060102_v11_n1/1306_The legal and practical implications of recent attacks on 128-bit cryptographic hash function.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1306
+
+ID: 1310
+Title: Law and borders: The rise of law in cyberspace
+Abstract Length: 485 chars
+File: 20060206_v11_n2/1310_Law and borders The rise of law in cyberspace.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1310
+
+ID: 1311
+Title: The great debate: Law in the virtual world
+Abstract Length: 481 chars
+File: 20060206_v11_n2/1311_The great debate Law in the virtual world.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1311
+
+ID: 1314
+Title: The life of the law online
+Abstract Length: 453 chars
+File: 20060206_v11_n2/1314_The life of the law online.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1314
+
+ID: 1547
+Title: Story space: A theoretical grounding for the new urban annotation
+Abstract Length: 573 chars
+File: 20060220_vSE_n4/1547_Story space A theoretical grounding for the new urban annotation.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1547
+
+ID: 1555
+Title: Programming video art for urban screens in public space
+Abstract Length: 542 chars
+File: 20060220_vSE_n4/1555_Programming video art for urban screens in public space.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1555
+
+ID: 1561
+Title: keep off the grass acmipark - a case study of a virtual public place
+Abstract Length: 525 chars
+File: 20060225_vSE_n5/1561_keep off the grass acmipark - a case study of a virtual public place.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1561
+
+ID: 1564
+Title: Architecture and the Virtual World
+Abstract Length: 490 chars
+File: 20060225_vSE_n5/1564_Architecture and the Virtual World.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1564
+
+ID: 1319
+Title: Exploring factors influencing Internet users' adoption of Internet tel
+Abstract Length: 474 chars
+File: 20060306_v11_n3/1319_Exploring factors influencing Internet users' adoption of Internet television in Taiwan.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1319
+
+ID: 1324
+Title: Comparison of content policies for institutional repositories in Austr
+Abstract Length: 558 chars
+File: 20060403_v11_n4/1324_Comparison of content policies for institutional repositories in Australia.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1324
+
+ID: 1326
+Title: K-12 encounters the Internet
+Abstract Length: 447 chars
+File: 20060501_v11_n5/1326_K-12 encounters the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1326
+
+ID: 1335
+Title: Strategies for developing sustainable open access scholarly journals
+Abstract Length: 529 chars
+File: 20060605_v11_n6/1335_Strategies for developing sustainable open access scholarly journals.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1335
+
+ID: 1336
+Title: Managing risk and opportunity in Creative Commons enterprises
+Abstract Length: 537 chars
+File: 20060605_v11_n6/1336_Managing risk and opportunity in Creative Commons enterprises.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1336
+
+ID: 1338
+Title: Constructing a framework to enable an open source reinvention of journ
+Abstract Length: 501 chars
+File: 20060605_v11_n6/1338_Constructing a framework to enable an open source reinvention of journalism.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1338
+
+ID: 1339
+Title: Digitizing more than organizational DNA
+Abstract Length: 525 chars
+File: 20060605_v11_n6/1339_Digitizing more than organizational DNA.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1339
+
+ID: 1342
+Title: An analysis of open source principles in diverse collaborative communi
+Abstract Length: 556 chars
+File: 20060605_v11_n6/1342_An analysis of open source principles in diverse collaborative communities.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1342
+
+ID: 1387
+Title: Examining MARC Records as Artifacts That Reflect Metadata Utilization 
+Abstract Length: 501 chars
+File: 20060807_v11_n8/1387_Examining MARC Records as Artifacts That Reflect Metadata Utilization Decisions.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1387
+
+ID: 1395
+Title: Unpacking "I Don't Want It" - why novices and non-users don't use the 
+Abstract Length: 503 chars
+File: 20060904_v11_n9/1395_Unpacking I Don't Want It - why novices and non-users don't use the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1395
+
+ID: 1398
+Title: Knowledge and governance in the digital age: The politics of monitorin
+Abstract Length: 562 chars
+File: 20060904_v11_n9/1398_Knowledge and governance in the digital age The politics of monitoring planetary life.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1398
+
+ID: 1412
+Title: Gifting technologies: A BitTorrent case study
+Abstract Length: 436 chars
+File: 20061106_v11_n11/1412_Gifting technologies A BitTorrent case study.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1412
+
+ID: 1414
+Title: Mapping the mobile landscape in Australia
+Abstract Length: 498 chars
+File: 20061106_v11_n11/1414_Mapping the mobile landscape in Australia.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1414
+
+ID: 1417
+Title: Identity and Identification in a Networked World
+Abstract Length: 491 chars
+File: 20061204_v11_n12/1417_Identity and Identification in a Networked World.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1417
+
+ID: 1420
+Title: On panopticism, criminal records and sex offender registries
+Abstract Length: 563 chars
+File: 20061204_v11_n12/1420_On panopticism, criminal records and sex offender registries.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1420
+
+ID: 1796
+Title: Who benefits from the digital divide? (originally published in August 
+Abstract Length: 510 chars
+File: 20070220_vSE_n8/1796_Who benefits from the digital divide (originally published in August 2004).json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1796
+
+ID: 1798
+Title: Effective use: A community informatics strategy beyond the Digital Div
+Abstract Length: 535 chars
+File: 20070220_vSE_n8/1798_Effective use A community informatics strategy beyond the Digital Divide (originally published in De.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1798
+
+ID: 1766
+Title: Election bloggers: Methods for determining political influence
+Abstract Length: 490 chars
+File: 20070402_v12_n4/1766_Election bloggers Methods for determining political influence.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1766
+
+ID: 1768
+Title: Building an open access African studies repository using Web 2.0 princ
+Abstract Length: 527 chars
+File: 20070402_v12_n4/1768_Building an open access African studies repository using Web 2.0 principles.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1768
+
+ID: 1771
+Title: Change of state: Information, policy and power
+Abstract Length: 466 chars
+File: 20070402_v12_n4/1771_Change of state Information, policy and power.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1771
+
+ID: 1772
+Title: Acting with technology: Activity theory and interaction design
+Abstract Length: 499 chars
+File: 20070402_v12_n4/1772_Acting with technology Activity theory and interaction design.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1772
+
+ID: 1867
+Title: What's wrong with the patent system? Fuzzy boundaries and the patent t
+Abstract Length: 508 chars
+File: 20070604_v12_n6/1867_What's wrong with the patent system Fuzzy boundaries and the patent tax.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1867
+
+ID: 1871
+Title: Knowledge management architectures beyond technology
+Abstract Length: 475 chars
+File: 20070604_v12_n6/1871_Knowledge management architectures beyond technology.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1871
+
+ID: 1872
+Title: Cyberinfrastructure and patent thickets: Challenges and responses
+Abstract Length: 486 chars
+File: 20070604_v12_n6/1872_Cyberinfrastructure and patent thickets Challenges and responses.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1872
+
+ID: 1901
+Title: Infrastructure commons in economic perspective
+Abstract Length: 472 chars
+File: 20070604_v12_n6/1901_Infrastructure commons in economic perspective.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1901
+
+ID: 1902
+Title: Economic experiments in internet access markets
+Abstract Length: 480 chars
+File: 20070604_v12_n6/1902_Economic experiments in internet access markets.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1902
+
+ID: 1903
+Title: The role of patents in technology markets: Issues pertaining to data c
+Abstract Length: 529 chars
+File: 20070604_v12_n6/1903_The role of patents in technology markets Issues pertaining to data collection and analysis.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1903
+
+ID: 1904
+Title: Understanding infrastructure: History, heuristics and cyberinfrastruct
+Abstract Length: 551 chars
+File: 20070604_v12_n6/1904_Understanding infrastructure History, heuristics and cyberinfrastructure policy.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1904
+
+ID: 1905
+Title: A simple method to improve life sciences patent searches using the cyb
+Abstract Length: 567 chars
+File: 20070604_v12_n6/1905_A simple method to improve life sciences patent searches using the cyberinfrastructure at the Nation.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1905
+
+ID: 1907
+Title: Social and behavioral scientists building cyberinfrastructure
+Abstract Length: 486 chars
+File: 20070604_v12_n6/1907_Social and behavioral scientists building cyberinfrastructure.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1907
+
+ID: 1908
+Title: Cyberinfrastructure, institutions and sustainability
+Abstract Length: 434 chars
+File: 20070604_v12_n6/1908_Cyberinfrastructure, institutions and sustainability.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1908
+
+ID: 1909
+Title: Knowledge commons: The case of the biopharmaceutical industry
+Abstract Length: 480 chars
+File: 20070604_v12_n6/1909_Knowledge commons The case of the biopharmaceutical industry.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1909
+
+ID: 1910
+Title: Intellectual property and compatibility standards: A primer
+Abstract Length: 478 chars
+File: 20070604_v12_n6/1910_Intellectual property and compatibility standards A primer.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1910
+
+ID: 1913
+Title: Seeking open infrastructure: Contrasting open standards, open source a
+Abstract Length: 505 chars
+File: 20070604_v12_n6/1913_Seeking open infrastructure Contrasting open standards, open source and open innovation.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1913
+
+ID: 1915
+Title: Conference Keynote Address
+Abstract Length: 452 chars
+File: 20070604_v12_n6/1915_Conference Keynote Address.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1915
+
+ID: 1916
+Title: Conference Keynote Address
+Abstract Length: 441 chars
+File: 20070604_v12_n6/1916_Conference Keynote Address.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1916
+
+ID: 1917
+Title: Preserving government and political information: The Web-at-Risk Proje
+Abstract Length: 540 chars
+File: 20070702_v12_n7/1917_Preserving government and political information The Web-at-Risk Project.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1917
+
+ID: 1919
+Title: Keynote address: Envisioning American art 2.0
+Abstract Length: 500 chars
+File: 20070702_v12_n7/1919_Keynote address Envisioning American art 2.0.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1919
+
+ID: 1921
+Title: Surveying the digital readiness of institutions
+Abstract Length: 504 chars
+File: 20070702_v12_n7/1921_Surveying the digital readiness of institutions.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1921
+
+ID: 1923
+Title: Stewarding potential
+Abstract Length: 476 chars
+File: 20070702_v12_n7/1923_Stewarding potential.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1923
+
+ID: 1924
+Title: Digitizing for access and preservation strategies of the Library of Co
+Abstract Length: 473 chars
+File: 20070702_v12_n7/1924_Digitizing for access and preservation strategies of the Library of Congress.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1924
+
+ID: 1925
+Title: Digital humanities and the IMLS/NEH Advancing Knowledge Partnership
+Abstract Length: 523 chars
+File: 20070702_v12_n7/1925_Digital humanities and the IMLSNEH Advancing Knowledge Partnership.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1925
+
+ID: 1973
+Title: Infomania: Why we can't afford to ignore it any longer
+Abstract Length: 569 chars
+File: 20070806_v12_n8/1973_Infomania Why we can't afford to ignore it any longer.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1973
+
+ID: 1978
+Title: The new shape of online community: The example of Swedish independent 
+Abstract Length: 449 chars
+File: 20070806_v12_n8/1978_The new shape of online community The example of Swedish independent music fandom.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1978
+
+ID: 1999
+Title: Revisiting the Four Horsemen of the Infopocalypse: Representations of 
+Abstract Length: 498 chars
+File: 20070806_v12_n8/1999_Revisiting the Four Horsemen of the Infopocalypse Representations of anonymity and the Internet in C.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1999
+
+ID: 2006
+Title: On modder labour, commodification of play, and mod competitions
+Abstract Length: 545 chars
+File: 20070903_v12_n9/2006_On modder labour, commodification of play, and mod competitions.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2006
+
+ID: 2010
+Title: Reputation-based governance
+Abstract Length: 444 chars
+File: 20070903_v12_n9/2010_Reputation-based governance.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2010
+
+ID: 2078
+Title: Writing Oneself, Writing the Presidential Campaign
+Abstract Length: 540 chars
+File: 20080204_v13_n2/2078_Writing Oneself, Writing the Presidential Campaign.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2078
+
+ID: 2084
+Title: Opening Pandora's box: How technologies of communication and cognition
+Abstract Length: 556 chars
+File: 20080204_v13_n2/2084_Opening Pandora's box How technologies of communication and cognition may be shifting towards a 'psy.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2084
+
+ID: 2019
+Title: Visual comparison of search results: A censorship case study
+Abstract Length: 479 chars
+File: 20080707_v13_n7/2019_Visual comparison of search results A censorship case study.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2019
+
+ID: 2203
+Title: Ashes2Art: Collaboration and Community in the Humanities
+Abstract Length: 515 chars
+File: 20080804_v13_n8/2203_Ashes2Art Collaboration and Community in the Humanities.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2203
+
+ID: 2211
+Title: Colonial Williamsburg and The Idea of America
+Abstract Length: 454 chars
+File: 20080804_v13_n8/2211_Colonial Williamsburg and The Idea of America.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2211
+
+ID: 2214
+Title: The World is Not Flat: Expertise and InPhO
+Abstract Length: 495 chars
+File: 20080804_v13_n8/2214_The World is Not Flat Expertise and InPhO.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2214
+
+ID: 2222
+Title: Second Life: A Virtual World. Why Are Librarians There?
+Abstract Length: 438 chars
+File: 20080804_v13_n8/2222_Second Life A Virtual World. Why Are Librarians There.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2222
+
+ID: 2256
+Title: PlantCollections - A Community Solution
+Abstract Length: 440 chars
+File: 20080804_v13_n8/2256_PlantCollections - A Community Solution.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2256
+
+ID: 2157
+Title: Network locality: Local knowledge and politics in a network culture
+Abstract Length: 431 chars
+File: 20081006_v13_n10/2157_Network locality Local knowledge and politics in a network culture.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2157
+
+ID: 2183
+Title: Information architecture for digital libraries
+Abstract Length: 577 chars
+File: 20081201_v13_n12/2183_Information architecture for digital libraries.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2183
+
+ID: 2162
+Title: All the World Wide Web’s a stage: The performance of identity in onlin
+Abstract Length: 526 chars
+File: 20090302_v14_n3/2162_All the World Wide Web’s a stage The performance of identity in online social networks.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2162
+
+ID: 2301
+Title: Use and importance of the Internet at the University of Maiduguri, Nig
+Abstract Length: 573 chars
+File: 20090302_v14_n3/2301_Use and importance of the Internet at the University of Maiduguri, Nigeria.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2301
+
+ID: 2329
+Title: Navigating the blogosphere: Towards a genre-based typology of weblogs
+Abstract Length: 564 chars
+File: 20090504_v14_n5/2329_Navigating the blogosphere Towards a genre-based typology of weblogs.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2329
+
+ID: 2315
+Title: Remediating cultural services in Second Life: The case of Info Island 
+Abstract Length: 433 chars
+File: 20090601_v14_n6/2315_Remediating cultural services in Second Life The case of Info Island DK.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2315
+
+ID: 2434
+Title: A critical examination of Blackboard’s e-learning environment
+Abstract Length: 552 chars
+File: 20090601_v14_n6/2434_A critical examination of Blackboard’s e-learning environment.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2434
+
+ID: 2595
+Title: Usage of communication portfolios in distributed work environments
+Abstract Length: 497 chars
+File: 20090803_v14_n8/2595_Usage of communication portfolios in distributed work environments.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2595
+
+ID: 2576
+Title: Toward global measurement of the information society: a U.S.-China com
+Abstract Length: 521 chars
+File: 20091005_v14_n10/2576_Toward global measurement of the information society a U.S.-China comparison of national government .json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2576
+
+ID: 2679
+Title: Anti-abortion extremism online
+Abstract Length: 469 chars
+File: 20091102_v14_n11/2679_Anti-abortion extremism online.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2679
+
+ID: 2699
+Title: Real vlogs: The rules and meanings of online personal videos
+Abstract Length: 448 chars
+File: 20091102_v14_n11/2699_Real vlogs The rules and meanings of online personal videos.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2699
+
+ID: 2793
+Title: Detecting spam in a Twitter network
+Abstract Length: 463 chars
+File: 20100104_v15_n1/2793_Detecting spam in a Twitter network.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2793
+
+ID: 2777
+Title: The role of advertising in financing open access journals
+Abstract Length: 537 chars
+File: 20100301_v15_n3/2777_The role of advertising in financing open access journals.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2777
+
+ID: 2762
+Title: Digital reading spaces: How expert readers handle books, the Web and e
+Abstract Length: 488 chars
+File: 20100405_v15_n4/2762_Digital reading spaces How expert readers handle books, the Web and electronic paper.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2762
+
+ID: 2631
+Title: Library perspectives on Web content management systems
+Abstract Length: 457 chars
+File: 20100802_v15_n8/2631_Library perspectives on Web content management systems.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2631
+
+ID: 2800
+Title: A sustainable future for open textbooks? The Flat World Knowledge stor
+Abstract Length: 452 chars
+File: 20100802_v15_n8/2800_A sustainable future for open textbooks The Flat World Knowledge story.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2800
+
+ID: 3120
+Title: Linked Data tools: Semantic Web for the masses
+Abstract Length: 514 chars
+File: 20101101_v15_n11/3120_Linked Data tools Semantic Web for the masses.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3120
+
+ID: 3125
+Title: Between social awareness and productivity: Results of a survey about r
+Abstract Length: 544 chars
+File: 20101101_v15_n11/3125_Between social awareness and productivity Results of a survey about real-time microblogging.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3125
+
+ID: 2745
+Title: Twitter content classification
+Abstract Length: 472 chars
+File: 20101206_v15_n12/2745_Twitter content classification.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2745
+
+ID: 3206
+Title: New media and literacies: Amateurs vs. professionals
+Abstract Length: 504 chars
+File: 20110103_v16_n1/3206_New media and literacies Amateurs vs. professionals.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3206
+
+ID: 3314
+Title: The value of online friends: Networked resources via social network si
+Abstract Length: 528 chars
+File: 20110207_v16_n2/3314_The value of online friends Networked resources via social network sites.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3314
+
+ID: 3316
+Title: Open data: Empowering the empowered or effective data use for everyone
+Abstract Length: 434 chars
+File: 20110207_v16_n2/3316_Open data Empowering the empowered or effective data use for everyone.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3316
+
+ID: 3356
+Title: The role of online learning in the merit and promotion process: Is cre
+Abstract Length: 436 chars
+File: 20110307_v16_n3/3356_The role of online learning in the merit and promotion process Is credit necessary or applied.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3356
+
+ID: 3228
+Title: A forum of their own: Views about the Internet among ultra-Orthodox Je
+Abstract Length: 574 chars
+File: 20110404_v16_n4/3228_A forum of their own Views about the Internet among ultra-Orthodox Jewish women who browse designate.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3228
+
+ID: 3494
+Title: Tool for or source of action? A social psychological perspective on th
+Abstract Length: 528 chars
+File: 20110606_v16_n6/3494_Tool for or source of action A social psychological perspective on the influence of virtual worlds o.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3494
+
+ID: 3197
+Title: Finding the meaning of emo in youths' online social networking: A qual
+Abstract Length: 456 chars
+File: 20110704_v16_n7/3197_Finding the meaning of emo in youths' online social networking A qualitative study of contemporary I.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3197
+
+ID: 3353
+Title: Non-traditional book publishing
+Abstract Length: 535 chars
+File: 20110801_v16_n8/3353_Non-traditional book publishing.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3353
+
+ID: 3540
+Title: Is the voter only a tweet away? Micro blogging during the 2009 Europea
+Abstract Length: 469 chars
+File: 20110801_v16_n8/3540_Is the voter only a tweet away Micro blogging during the 2009 European Parliament election campaign .json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3540
+
+ID: 3377
+Title: The impact of industry structure on e-commerce initiatives in the deve
+Abstract Length: 460 chars
+File: 20110905_v16_n9/3377_The impact of industry structure on e-commerce initiatives in the developing world Two case studies .json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3377
+
+ID: 3665
+Title: User unknown: 4chan, anonymity and contingency
+Abstract Length: 569 chars
+File: 20111003_v16_n10/3665_User unknown 4chan, anonymity and contingency.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3665
+
+ID: 3669
+Title: Boundaries of research disciplines are paper constructs: Digital Web-b
+Abstract Length: 431 chars
+File: 20111107_v16_n11/3669_Boundaries of research disciplines are paper constructs Digital Web-based information as a challenge.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3669
+
+ID: 3744
+Title: Cascades and the political blogosphere
+Abstract Length: 431 chars
+File: 20111205_v16_n12/3744_Cascades and the political blogosphere.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3744
+
+ID: 3731
+Title: Aggregated trustworthiness: Redefining online credibility through soci
+Abstract Length: 531 chars
+File: 20120102_v17_n1/3731_Aggregated trustworthiness Redefining online credibility through social validation.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3731
+
+ID: 3888
+Title: The Internet, selective learning, and the rise of issue specialists
+Abstract Length: 501 chars
+File: 20120507_v17_n5/3888_The Internet, selective learning, and the rise of issue specialists.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3888
+
+ID: 3922
+Title: Enhancing user involvement with digital cultural heritage: The usage o
+Abstract Length: 553 chars
+File: 20120507_v17_n5/3922_Enhancing user involvement with digital cultural heritage The usage of social tagging and storytelli.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3922
+
+ID: 4199
+Title: The refraction chamber: Twitter as sphere and network
+Abstract Length: 475 chars
+File: 20121105_v17_n11/4199_The refraction chamber Twitter as sphere and network.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4199
+
+ID: 4234
+Title: Promoting sustainability and simple living online and off-line:  An Au
+Abstract Length: 555 chars
+File: 20121203_v17_n12/4234_Promoting sustainability and simple living online and off-line An Australian case study.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4234
+
+ID: 4352
+Title: Front-paging online newspapers
+Abstract Length: 523 chars
+File: 20130204_v18_n2/4352_Front-paging online newspapers.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4352
+
+ID: 4618
+Title: What's on your mind? Social media monopolies and noopower
+Abstract Length: 515 chars
+File: 20130304_v18_n3/4618_What's on your mind Social media monopolies and noopower.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4618
+
+ID: 4619
+Title: Smell the fish: Digital Disneyland and the right to oblivion
+Abstract Length: 472 chars
+File: 20130304_v18_n3/4619_Smell the fish Digital Disneyland and the right to oblivion.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4619
+
+ID: 3932
+Title: Learning environments and rapidly evolving handheld technologies
+Abstract Length: 464 chars
+File: 20130401_v18_n4/3932_Learning environments and rapidly evolving handheld technologies.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3932
+
+ID: 4244
+Title: Synthesizing sponsorships: Toward a lens of composite sponsorship on s
+Abstract Length: 441 chars
+File: 20130401_v18_n4/4244_Synthesizing sponsorships Toward a lens of composite sponsorship on social network sites.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4244
+
+ID: 4316
+Title: Exploring ways in which social networkers contribute to online groups:
+Abstract Length: 458 chars
+File: 20130401_v18_n4/4316_Exploring ways in which social networkers contribute to online groups A case study of one Facebook g.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4316
+
+ID: 4370
+Title: Economics of scholarly communication in transition
+Abstract Length: 457 chars
+File: 20130603_v18_n6/4370_Economics of scholarly communication in transition.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4370
+
+ID: 3885
+Title: Mantous and alpacas as weapons of the weak: Chinese spoof video and se
+Abstract Length: 522 chars
+File: 20130701_v18_n7/3885_Mantous and alpacas as weapons of the weak Chinese spoof video and self-expression online.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3885
+
+ID: 4628
+Title: Chat program censorship and surveillance in China: Tracking TOM-Skype 
+Abstract Length: 578 chars
+File: 20130701_v18_n7/4628_Chat program censorship and surveillance in China Tracking TOM-Skype and Sina UC.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4628
+
+ID: 4271
+Title: 3D printing community and emerging practices of peer production
+Abstract Length: 484 chars
+File: 20130805_v18_n8/4271_3D printing community and emerging practices of peer production.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4271
+
+ID: 4282
+Title: From lecture hall to city council: Twitter as subordinate involvement 
+Abstract Length: 534 chars
+File: 20130805_v18_n8/4282_From lecture hall to city council Twitter as subordinate involvement in formal settings.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4282
+
+ID: 4693
+Title: Networking and notworking in social intranets: User archetypes and par
+Abstract Length: 560 chars
+File: 20130805_v18_n8/4693_Networking and notworking in social intranets User archetypes and participatory divides.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4693
+
+ID: 4650
+Title: Natural disasters and Twitter: Thinking from both sides of the tweet
+Abstract Length: 480 chars
+File: 20130902_v18_n9/4650_Natural disasters and Twitter Thinking from both sides of the tweet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4650
+
+ID: 4878
+Title: A critical reflection on Big Data: Considering APIs, researchers and t
+Abstract Length: 569 chars
+File: 20131007_v18_n10/4878_A critical reflection on Big Data Considering APIs, researchers and tools as data makers.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4878
+
+ID: 5006
+Title: Different spaces: Exploring Facebook as heterotopia
+Abstract Length: 472 chars
+File: 20140602_v19_n6/5006_Different spaces Exploring Facebook as heterotopia.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5006
+
+ID: 5548
+Title: "This video is not available in Germany": Online discourses on the Ger
+Abstract Length: 567 chars
+File: 20141006_v19_n10/5548_This video is not available in Germany Online discourses on the German collecting society GEMA and Y.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5548
+
+ID: 5896
+Title: Toxic femininity 4.0
+Abstract Length: 462 chars
+File: 20150406_v20_n4/5896_Toxic femininity 4.0.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5896
+
+ID: 5423
+Title: A brief history of Facebook as a media text: The development of an emp
+Abstract Length: 575 chars
+File: 20150504_v20_n5/5423_A brief history of Facebook as a media text The development of an empty structure.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5423
+
+ID: 5507
+Title: Coping with the big data dump: Towards a framework for enhanced inform
+Abstract Length: 564 chars
+File: 20150601_v20_n6/5507_Coping with the big data dump Towards a framework for enhanced information representation.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5507
+
+ID: 5602
+Title: Use of Twitter among Spanish communication-area faculty: Research, tea
+Abstract Length: 563 chars
+File: 20150601_v20_n6/5602_Use of Twitter among Spanish communication-area faculty Research, teaching and visibility.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5602
+
+ID: 5641
+Title: E-books: Histories, trajectories, futures
+Abstract Length: 496 chars
+File: 20150601_v20_n6/5641_E-books Histories, trajectories, futures.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5641
+
+ID: 6128
+Title: Information systems for the age of consequences
+Abstract Length: 525 chars
+File: 20150803_v20_n8/6128_Information systems for the age of consequences.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6128
+
+ID: 6131
+Title: On the limits of limits
+Abstract Length: 567 chars
+File: 20150803_v20_n8/6131_On the limits of limits.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6131
+
+ID: 5912
+Title: A new model to explore non-profit social media use for advocacy and ci
+Abstract Length: 577 chars
+File: 20151005_v20_n10/5912_A new model to explore non-profit social media use for advocacy and civic engagement.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5912
+
+ID: 6017
+Title: Negativity and anti-social attention seeking among narcissists on Twit
+Abstract Length: 488 chars
+File: 20160307_v21_n3/6017_Negativity and anti-social attention seeking among narcissists on Twitter A linguistic analysis.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6017
+
+ID: 6154
+Title: I see you, you see me: Mobile advertisements and privacy
+Abstract Length: 467 chars
+File: 20160307_v21_n3/6154_I see you, you see me Mobile advertisements and privacy.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6154
+
+ID: 6351
+Title: The ecology of the ePundit: Surveying the new opinion-making landscape
+Abstract Length: 507 chars
+File: 20160404_v21_n4/6351_The ecology of the ePundit Surveying the new opinion-making landscape.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6351
+
+ID: 6790
+Title: The domestication of online activism
+Abstract Length: 465 chars
+File: 20160606_v21_n6/6790_The domestication of online activism.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6790
+
+ID: 6655
+Title: Rethinking civic computing in China
+Abstract Length: 574 chars
+File: 20160704_v21_n7/6655_Rethinking civic computing in China.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6655
+
+ID: 6390
+Title: The relationship between Instagram selfies and body image in young adu
+Abstract Length: 540 chars
+File: 20160905_v21_n9/6390_The relationship between Instagram selfies and body image in young adult women.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6390
+
+ID: 7109
+Title: The decentralization of knowledge: How Carnap and Heidegger influenced
+Abstract Length: 557 chars
+File: 20161205_v21_n12/7109_The decentralization of knowledge How Carnap and Heidegger influenced the Web.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/7109
+
+ID: 7117
+Title: Peer to party: Occupy the law
+Abstract Length: 554 chars
+File: 20161205_v21_n12/7117_Peer to party Occupy the law.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/7117
+
+ID: 6607
+Title: Tracking the imagined audience: A case study on Nike’s use of Twitter 
+Abstract Length: 525 chars
+File: 20170501_v22_n5/6607_Tracking the imagined audience A case study on Nike’s use of Twitter for B2C interaction.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6607
+
+ID: 8042
+Title: ‘Stop Fake Hate Profiles on Facebook’: Challenges for crowdsourced act
+Abstract Length: 562 chars
+File: 20170904_v22_n9/8042_‘Stop Fake Hate Profiles on Facebook’ Challenges for crowdsourced activism on social media.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/8042
+
+ID: 8008
+Title: The use of the Japanese epistemic markers ne, kamo and kana with emoti
+Abstract Length: 536 chars
+File: 20171204_v22_n12/8008_The use of the Japanese epistemic markers ne, kamo and kana with emoticons in an online female Japan.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/8008
+
+ID: 8163
+Title: A case for digital squirrels: Using and preserving YouTube for popular
+Abstract Length: 483 chars
+File: 20180101_v23_n1/8163_A case for digital squirrels Using and preserving YouTube for popular culture research.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/8163
+
+ID: 8241
+Title: Diversity work and digital carework in higher education
+Abstract Length: 430 chars
+File: 20180305_v23_n3/8241_Diversity work and digital carework in higher education.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/8241
+
+ID: 8289
+Title: The digital labor of queering feminist Web TV
+Abstract Length: 577 chars
+File: 20180305_v23_n3/8289_The digital labor of queering feminist Web TV.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/8289
+
+ID: 9410
+Title: Between art and application: Special issue on emoji epistemology
+Abstract Length: 575 chars
+File: 20180903_v23_n9/9410_Between art and application Special issue on emoji epistemology.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/9410
+
+ID: 9435
+Title: Decreasing materiality from print to screen reading
+Abstract Length: 578 chars
+File: 20181001_v23_n10/9435_Decreasing materiality from print to screen reading.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/9435
+
+ID: 8548
+Title: Social television engagement: An examination of content, interpersonal
+Abstract Length: 514 chars
+File: 20190107_v24_n1/8548_Social television engagement An examination of content, interpersonal, and medium relationships.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/8548
+
+ID: 7264
+Title: Political memes and the politics of memes: A methodological proposal f
+Abstract Length: 472 chars
+File: 20190204_v24_n2/7264_Political memes and the politics of memes A methodological proposal for content analysis of online p.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/7264
+
+ID: 9913
+Title: The global gig economy: Towards a planetary labour market?
+Abstract Length: 523 chars
+File: 20190401_v24_n4/9913_The global gig economy Towards a planetary labour market.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/9913
+
+ID: 9525
+Title: Game testing and evaluation on real devices: Exploring in the case of 
+Abstract Length: 477 chars
+File: 20190805_v24_n8/9525_Game testing and evaluation on real devices Exploring in the case of the Open Device Lab community.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/9525
+
+ID: 10250
+Title: Automated and/or authentic intimacy: What can we learn about contempor
+Abstract Length: 579 chars
+File: 20191007_v24_n10/10250_Automated andor authentic intimacy What can we learn about contemporary intimacy from the case of As.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/10250
+
+ID: 9667
+Title: Antecedents and consequences of binge-watching for college students
+Abstract Length: 546 chars
+File: 20191202_v24_n12/9667_Antecedents and consequences of binge-watching for college students.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/9667
+
+ID: 10283
+Title: Watching and talking about AIDS: Analog tapes, digital cultures, and s
+Abstract Length: 568 chars
+File: 20201005_v25_n10/10283_Watching and talking about AIDS Analog tapes, digital cultures, and strategies for connection.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/10283
+
+ID: 10869
+Title: Crowdfunding during COVID-19: An international comparison of online fu
+Abstract Length: 556 chars
+File: 20201102_v25_n11/10869_Crowdfunding during COVID-19 An international comparison of online fundraising.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/10869
+
+ID: 11660
+Title: The rhythms of shame in digital sexual assault: Rhythmic resistance an
+Abstract Length: 565 chars
+File: 20210405_v26_n4/11660_The rhythms of shame in digital sexual assault Rhythmic resistance and the repeated assault.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/11660
+
+ID: 11474
+Title: The coming age of adversarial social bot detection
+Abstract Length: 557 chars
+File: 20210607_v26_n6/11474_The coming age of adversarial social bot detection.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/11474
+
+ID: 11091
+Title: A framework for a data interest analysis of artificial intelligence
+Abstract Length: 476 chars
+File: 20210705_v26_n7/11091_A framework for a data interest analysis of artificial intelligence.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/11091
+
+ID: 11683
+Title: Pilot study suggests online media literacy programming reduces belief 
+Abstract Length: 560 chars
+File: 20220103_v27_n1/11683_Pilot study suggests online media literacy programming reduces belief in false news in Indonesia.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/11683
+
+ID: 12628
+Title: Exposure to thin-ideal, fitspirational, and plus-size Instagram images
+Abstract Length: 536 chars
+File: 20220801_v27_n8/12628_Exposure to thin-ideal, fitspirational, and plus-size Instagram images influences body image and bod.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/12628
+
+ID: 12546
+Title: Rebel personalities: Canada’s far-right media
+Abstract Length: 576 chars
+File: 20220905_v27_n9/12546_Rebel personalities Canada’s far-right media.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/12546
+
+ID: 11604
+Title: Pundits, presenters, and promoters: Investigating gaps in digital prod
+Abstract Length: 560 chars
+File: 20221205_v27_n12/11604_Pundits, presenters, and promoters Investigating gaps in digital production among social media users.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/11604
+
+ID: 12929
+Title: Sidewalks are for people? Futuristic fantasies, disabled lives, and cr
+Abstract Length: 562 chars
+File: 20230102_v28_n1/12929_Sidewalks are for people Futuristic fantasies, disabled lives, and crip sitveillance.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/12929
+
+ID: 12825
+Title: Anatomy of Twitter followership
+Abstract Length: 477 chars
+File: 20230306_v28_n3/12825_Anatomy of Twitter followership.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/12825
+
+ID: 13124
+Title: Social media incivility and engagement: The role of experiences, perce
+Abstract Length: 507 chars
+File: 20231106_v28_n11/13124_Social media incivility and engagement The role of experiences, perceptions, and expectations.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/13124
+
+ID: 13196
+Title: Digital ethnography: A qualitative approach to digital cultures, space
+Abstract Length: 549 chars
+File: 20240506_v29_n5/13196_Digital ethnography A qualitative approach to digital cultures, spaces, and socialites.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/13196
+
+ID: 13307
+Title: (Not) just monkeying around: Play, proliferation, and personae in meme
+Abstract Length: 538 chars
+File: 20250303_v30_n3/13307_(Not) just monkeying around Play, proliferation, and personae in meme coin speculation.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/13307
+
+ID: 13700
+Title: Brains, cogs, and square-headed robots: Anthropomorphisation of artifi
+Abstract Length: 464 chars
+File: 20250602_v30_n6/13700_Brains, cogs, and square-headed robots Anthropomorphisation of artificial intelligence in icons.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/13700
+
+
+EDITORIAL (81 articles):
+--------------------------------------------------------------------------------
+ID: 491
+Title: FM Interviews: Reva Basch
+Abstract Length: 448 chars
+File: 19961007_v1_n4/491_FM Interviews Reva Basch.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/491
+
+ID: 498
+Title: Editors' Introduction
+Abstract Length: 473 chars
+File: 19961202_v1_n6/498_Editors' Introduction.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/498
+
+ID: 504
+Title: Editors' Introduction
+Abstract Length: 471 chars
+File: 19970106_v2_n1/504_Editors' Introduction.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/504
+
+ID: 523
+Title: FM Interviews: Gary McGraw
+Abstract Length: 447 chars
+File: 19970407_v2_n4/523_FM Interviews Gary McGraw.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/523
+
+ID: 540
+Title: E-Journals, Archives and Knowledge Networks: A Commentary on Archie Za
+Abstract Length: 558 chars
+File: 19970707_v2_n7/540_E-Journals, Archives and Knowledge Networks A Commentary on Archie Zariski's Defense of Electronic L.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/540
+
+ID: 552
+Title: FM Interviews: Rimantas Pleikys
+Abstract Length: 456 chars
+File: 19970901_v2_n9/552_FM Interviews Rimantas Pleikys.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/552
+
+ID: 562
+Title: Letters to the Editor
+Abstract Length: 472 chars
+File: 19971103_v2_n11/562_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/562
+
+ID: 567
+Title: Waiting for Thomas Kuhn: First Monday and the Evolution of Electronic 
+Abstract Length: 577 chars
+File: 19971201_v2_n12/567_Waiting for Thomas Kuhn First Monday and the Evolution of Electronic Journals.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/567
+
+ID: 573
+Title: Letters to the Editor
+Abstract Length: 482 chars
+File: 19980105_v3_n1/573_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/573
+
+ID: 577
+Title: Letters to the Editor
+Abstract Length: 471 chars
+File: 19980202_v3_n2/577_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/577
+
+ID: 583
+Title: Interviews with Linus Torvalds: What motivates software developers
+Abstract Length: 486 chars
+File: 19980302_v3_n3/583_Interviews with Linus Torvalds What motivates software developers.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/583
+
+ID: 585
+Title: Letters to the Editor
+Abstract Length: 466 chars
+File: 19980302_v3_n3/585_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/585
+
+ID: 590
+Title: FM Interviews: Rosalind Picard
+Abstract Length: 454 chars
+File: 19980406_v3_n4/590_FM Interviews Rosalind Picard.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/590
+
+ID: 592
+Title: Letters to the Editor
+Abstract Length: 450 chars
+File: 19980406_v3_n4/592_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/592
+
+ID: 603
+Title: Letters to the Editor
+Abstract Length: 448 chars
+File: 19980601_v3_n6/603_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/603
+
+ID: 606
+Title: Preface: What is a Netizen?
+Abstract Length: 456 chars
+File: 19980706_v3_n7/606_Preface What is a Netizen.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/606
+
+ID: 610
+Title: Editors Introduction
+Abstract Length: 451 chars
+File: 19980803_v3_n8/610_Editors Introduction.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/610
+
+ID: 619
+Title: Letters to the Editor
+Abstract Length: 482 chars
+File: 19980907_v3_n9/619_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/619
+
+ID: 640
+Title: First Monday Interviews: James O'Donnell and Gregory Crane
+Abstract Length: 482 chars
+File: 19990104_v4_n1/640_First Monday Interviews James O'Donnell and Gregory Crane.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/640
+
+ID: 651
+Title: First Monday interviews: Jonathan Peizer
+Abstract Length: 461 chars
+File: 19990201_v4_n2/651_First Monday interviews Jonathan Peizer.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/651
+
+ID: 657
+Title: Letters to the Editor
+Abstract Length: 466 chars
+File: 19990301_v4_n3/657_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/657
+
+ID: 662
+Title: Letters to the Editor
+Abstract Length: 469 chars
+File: 19990405_v4_n4/662_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/662
+
+ID: 682
+Title: Letter from San Jose: The Internet Global Summit, June 1999
+Abstract Length: 474 chars
+File: 19990705_v4_n7/682_Letter from San Jose The Internet Global Summit, June 1999.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/682
+
+ID: 683
+Title: First Monday Interviews: David Chaum
+Abstract Length: 459 chars
+File: 19990705_v4_n7/683_First Monday Interviews David Chaum.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/683
+
+ID: 687
+Title: A message from Ilya Prigogine
+Abstract Length: 449 chars
+File: 19990802_v4_n8/687_A message from Ilya Prigogine.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/687
+
+ID: 693
+Title: Letter from Southeast Asia
+Abstract Length: 446 chars
+File: 19990906_v4_n9/693_Letter from Southeast Asia.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/693
+
+ID: 697
+Title: Letter from Nevada: Desert rituals
+Abstract Length: 455 chars
+File: 19991004_v4_n10/697_Letter from Nevada Desert rituals.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/697
+
+ID: 698
+Title: Letters to the Editor.
+Abstract Length: 470 chars
+File: 19991004_v4_n10/698_Letters to the Editor..json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/698
+
+ID: 703
+Title: Letter from a community networker: Celebration, Florida
+Abstract Length: 477 chars
+File: 19991101_v4_n11/703_Letter from a community networker Celebration, Florida.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/703
+
+ID: 704
+Title: First Monday Interviews: Howard Rheingold
+Abstract Length: 467 chars
+File: 19991101_v4_n11/704_First Monday Interviews Howard Rheingold.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/704
+
+ID: 705
+Title: Letters to the Editor.
+Abstract Length: 486 chars
+File: 19991101_v4_n11/705_Letters to the Editor..json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/705
+
+ID: 713
+Title: Letters to the Editor.
+Abstract Length: 485 chars
+File: 19991206_v4_n12/713_Letters to the Editor..json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/713
+
+ID: 730
+Title: The Internet and university participation: The Sierra Leone experience
+Abstract Length: 489 chars
+File: 20000207_v5_n2/730_The Internet and university participation The Sierra Leone experience.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/730
+
+ID: 737
+Title: The social life of information - Introduction: Tunneling ahead
+Abstract Length: 494 chars
+File: 20000403_v5_n4/737_The social life of information - Introduction Tunneling ahead.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/737
+
+ID: 749
+Title: First Monday Interviews: Louise Addis
+Abstract Length: 456 chars
+File: 20000501_v5_n5/749_First Monday Interviews Louise Addis.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/749
+
+ID: 750
+Title: Web-Wise: A Conference on Libraries and Museums in the Digital World: 
+Abstract Length: 503 chars
+File: 20000605_v5_n6/750_Web-Wise A Conference on Libraries and Museums in the Digital World Introduction.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/750
+
+ID: 776
+Title: Letters to the Editor.
+Abstract Length: 448 chars
+File: 20000703_v5_n7/776_Letters to the Editor..json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/776
+
+ID: 786
+Title: Letters to the Editor.
+Abstract Length: 463 chars
+File: 20000807_v5_n8/786_Letters to the Editor..json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/786
+
+ID: 805
+Title: Letter from Cambridge: Digital nations and eDevelopment meetings
+Abstract Length: 486 chars
+File: 20001105_v5_n11/805_Letter from Cambridge Digital nations and eDevelopment meetings.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/805
+
+ID: 832
+Title: Letters to the editor
+Abstract Length: 452 chars
+File: 20010108_v6_n1/832_Letters to the editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/832
+
+ID: 861
+Title: Letter from Nebraska: Wiring the world
+Abstract Length: 452 chars
+File: 20010507_v6_n5/861_Letter from Nebraska Wiring the world.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/861
+
+ID: 921
+Title: I don't watch TV to like learn anything: The Leisure Use of TV and the
+Abstract Length: 444 chars
+File: 20020107_v7_n1/921_I don't watch TV to like learn anything The Leisure Use of TV and the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/921
+
+ID: 999
+Title: Letter from San Francisco: The Internet Bookmobile
+Abstract Length: 471 chars
+File: 20021007_v7_n10/999_Letter from San Francisco The Internet Bookmobile.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/999
+
+ID: 1076
+Title: An exploration of predatory behaviour in cyberspace: Towards a typolog
+Abstract Length: 538 chars
+File: 20030901_v8_n9/1076_An exploration of predatory behaviour in cyberspace Towards a typology of cyberstalkers.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1076
+
+ID: 1149
+Title: On My Mind: Commentary on Web–Wise
+Abstract Length: 450 chars
+File: 20040503_v9_n5/1149_On My Mind Commentary on Web–Wise.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1149
+
+ID: 1176
+Title: Letters to the Editor
+Abstract Length: 458 chars
+File: 20040906_v9_n9/1176_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1176
+
+ID: 1184
+Title: Introduction: FLOSS at Large
+Abstract Length: 448 chars
+File: 20041101_v9_n11/1184_Introduction FLOSS at Large.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1184
+
+ID: 1223
+Title: Conversations in the dark: How young people manage chatroom relationsh
+Abstract Length: 530 chars
+File: 20050404_v10_n4/1223_Conversations in the dark How young people manage chatroom relationships.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1223
+
+ID: 1225
+Title: Letters to the Editor
+Abstract Length: 457 chars
+File: 20050404_v10_n4/1225_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1225
+
+ID: 1240
+Title: Evaluation of digital libraries using snowball sampling
+Abstract Length: 475 chars
+File: 20050502_v10_n5/1240_Evaluation of digital libraries using snowball sampling.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1240
+
+ID: 1253
+Title: Commentary on Web–Wise
+Abstract Length: 442 chars
+File: 20050606_v10_n6/1253_Commentary on Web–Wise.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1253
+
+ID: 1475
+Title: FM Interviews: Interview with Linus Torvalds: What motivates software 
+Abstract Length: 564 chars
+File: 20051003_vSE_n2/1475_FM Interviews Interview with Linus Torvalds What motivates software developers (originally published.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1475
+
+ID: 1560
+Title: Introduction to virtual architecture at State of Play III
+Abstract Length: 516 chars
+File: 20060225_vSE_n5/1560_Introduction to virtual architecture at State of Play III.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1560
+
+ID: 1605
+Title: Preface
+Abstract Length: 484 chars
+File: 20061120_vSE_n7/1605_Preface.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1605
+
+ID: 1606
+Title: Introduction: Contingency and Control Online
+Abstract Length: 507 chars
+File: 20061120_vSE_n7/1606_Introduction Contingency and Control Online.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1606
+
+ID: 1774
+Title: Introduction
+Abstract Length: 470 chars
+File: 20070220_vSE_n8/1774_Introduction.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1774
+
+ID: 1631
+Title: Letters to the Editor
+Abstract Length: 475 chars
+File: 20070305_v12_n3/1631_Letters to the Editor.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1631
+
+ID: 1773
+Title: FM Interviews: Sandra Braman
+Abstract Length: 456 chars
+File: 20070402_v12_n4/1773_FM Interviews Sandra Braman.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1773
+
+ID: 1959
+Title: From production to publishing at CJC online: Experiences, insights, an
+Abstract Length: 544 chars
+File: 20071001_v12_n10/1959_From production to publishing at CJC online Experiences, insights, and considerations for adoption.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1959
+
+ID: 2163
+Title: Enriching the migrant experience: Blogging motivations, privacy and of
+Abstract Length: 560 chars
+File: 20090302_v14_n3/2163_Enriching the migrant experience Blogging motivations, privacy and offline lives of Filipino women i.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2163
+
+ID: 2365
+Title: ﻿Comparing featured article groups and revision patterns correlations 
+Abstract Length: 530 chars
+File: 20090504_v14_n5/2365_﻿Comparing featured article groups and revision patterns correlations in Wikipedia.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2365
+
+ID: 2835
+Title: Electronic portfolio use in Thailand
+Abstract Length: 572 chars
+File: 20100201_v15_n2/2835_Electronic portfolio use in Thailand.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2835
+
+ID: 2954
+Title: User creativity, governance, and the new media: An introduction to the
+Abstract Length: 546 chars
+File: 20100503_v15_n5/2954_User creativity, governance, and the new media An introduction to the First Monday special issue.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2954
+
+ID: 3357
+Title: Community created open source hardware: A case study of "eCars - Now!"
+Abstract Length: 496 chars
+File: 20110502_v16_n5/3357_Community created open source hardware A case study of eCars - Now!.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3357
+
+ID: 3559
+Title: Understanding personal learning networks: Their structure, content and
+Abstract Length: 520 chars
+File: 20120102_v17_n1/3559_Understanding personal learning networks Their structure, content and the networking skills needed t.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3559
+
+ID: 3712
+Title: The imagined audience on Facebook: Analysis of Estonian teen sketches 
+Abstract Length: 469 chars
+File: 20120206_v17_n2/3712_The imagined audience on Facebook Analysis of Estonian teen sketches about typical Facebook users.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3712
+
+ID: 4343
+Title: Content analysis study of librarian blogs: Professional development an
+Abstract Length: 431 chars
+File: 20130204_v18_n2/4343_Content analysis study of librarian blogs Professional development and other uses.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4343
+
+ID: 4614
+Title: Introduction: Understanding social media monopolies
+Abstract Length: 432 chars
+File: 20130304_v18_n3/4614_Introduction Understanding social media monopolies.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4614
+
+ID: 4860
+Title: Introduction to the special issue 'Making data - Big data and beyond'
+Abstract Length: 511 chars
+File: 20131007_v18_n10/4860_Introduction to the special issue 'Making data - Big data and beyond'.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/4860
+
+ID: 5542
+Title: Editorial: On the 15-year anniversary of Napster - Digital music as bo
+Abstract Length: 553 chars
+File: 20141006_v19_n10/5542_Editorial On the 15-year anniversary of Napster - Digital music as boundary object.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5542
+
+ID: 5626
+Title: Controlling singularity: The role of online communication for young vi
+Abstract Length: 571 chars
+File: 20150504_v20_n5/5626_Controlling singularity The role of online communication for young visual artists’ identity manageme.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5626
+
+ID: 5498
+Title: #DearCongress: A public letter
+Abstract Length: 569 chars
+File: 20160307_v21_n3/5498_#DearCongress A public letter.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/5498
+
+ID: 6794
+Title: Preface: A decade of Web 2.0 - Reflections, critical perspectives, and
+Abstract Length: 534 chars
+File: 20160606_v21_n6/6794_Preface A decade of Web 2.0 - Reflections, critical perspectives, and beyond.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6794
+
+ID: 6939
+Title: Economies of the Internet
+Abstract Length: 450 chars
+File: 20161003_v21_n10/6939_Economies of the Internet.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/6939
+
+ID: 7442
+Title: Understanding Yik Yak: Location-based sociability and the communicatio
+Abstract Length: 530 chars
+File: 20171002_v22_n10/7442_Understanding Yik Yak Location-based sociability and the communication of place.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/7442
+
+ID: 9255
+Title: A conversation: Queer digital media resources and research
+Abstract Length: 548 chars
+File: 20180702_v23_n7/9255_A conversation Queer digital media resources and research.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/9255
+
+ID: 10412
+Title: Introduction: Ten years of WhatsApp: The role of chat apps in the form
+Abstract Length: 576 chars
+File: 20200106_v25_n1/10412_Introduction Ten years of WhatsApp The role of chat apps in the formation and mobilization of online.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/10412
+
+ID: 10617
+Title: Beyond cyberutopia and digital disenchantment
+Abstract Length: 563 chars
+File: 20200504_v25_n5/10617_Beyond cyberutopia and digital disenchantment.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/10617
+
+ID: 11629
+Title: Introduction to the special issue of Shame, Shaming and Online Image S
+Abstract Length: 460 chars
+File: 20210405_v26_n4/11629_Introduction to the special issue of Shame, Shaming and Online Image Sharing.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/11629
+
+ID: 13559
+Title: Preface
+Abstract Length: 569 chars
+File: 20240205_v29_n2/13559_Preface.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/13559
+
+ID: 13887
+Title: An examination of women leaving computational STEM careers
+Abstract Length: 447 chars
+File: 20250106_v30_n1/13887_An examination of women leaving computational STEM careers.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/13887
+
+
+REVIEW (63 articles):
+--------------------------------------------------------------------------------
+ID: 492
+Title: Book Reviews
+Abstract Length: 440 chars
+File: 19961007_v1_n4/492_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/492
+
+ID: 497
+Title: Book Reviews
+Abstract Length: 441 chars
+File: 19961104_v1_n5/497_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/497
+
+ID: 503
+Title: Book Reviews
+Abstract Length: 441 chars
+File: 19961202_v1_n6/503_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/503
+
+ID: 508
+Title: Book Reviews
+Abstract Length: 453 chars
+File: 19970106_v2_n1/508_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/508
+
+ID: 518
+Title: Book Reviews.
+Abstract Length: 453 chars
+File: 19970303_v2_n3/518_Book Reviews..json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/518
+
+ID: 524
+Title: Book Reviews.
+Abstract Length: 434 chars
+File: 19970407_v2_n4/524_Book Reviews..json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/524
+
+ID: 533
+Title: Never Ending, Still Beginning: A Defense of Electronic Law Journals fr
+Abstract Length: 474 chars
+File: 19970602_v2_n6/533_Never Ending, Still Beginning A Defense of Electronic Law Journals from the Perspective of the E Law.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/533
+
+ID: 534
+Title: Book Reviews
+Abstract Length: 476 chars
+File: 19970602_v2_n6/534_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/534
+
+ID: 541
+Title: Book Reviews
+Abstract Length: 437 chars
+File: 19970707_v2_n7/541_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/541
+
+ID: 547
+Title: Book Reviews
+Abstract Length: 439 chars
+File: 19970804_v2_n8/547_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/547
+
+ID: 553
+Title: Book Reviews
+Abstract Length: 476 chars
+File: 19970901_v2_n9/553_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/553
+
+ID: 557
+Title: Filtering the Internet in American public libraries: Sliding down the 
+Abstract Length: 468 chars
+File: 19971006_v2_n10/557_Filtering the Internet in American public libraries Sliding down the slippery slope.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/557
+
+ID: 563
+Title: Book Reviews
+Abstract Length: 444 chars
+File: 19971103_v2_n11/563_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/563
+
+ID: 568
+Title: Book Reviews
+Abstract Length: 444 chars
+File: 19971201_v2_n12/568_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/568
+
+ID: 584
+Title: Book Reviews
+Abstract Length: 451 chars
+File: 19980302_v3_n3/584_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/584
+
+ID: 591
+Title: Book Reviews
+Abstract Length: 452 chars
+File: 19980406_v3_n4/591_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/591
+
+ID: 604
+Title: Book and Software Reviews
+Abstract Length: 465 chars
+File: 19980601_v3_n6/604_Book and Software Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/604
+
+ID: 625
+Title: Book Reviews
+Abstract Length: 468 chars
+File: 19981005_v3_n10/625_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/625
+
+ID: 635
+Title: Book Reviews
+Abstract Length: 488 chars
+File: 19981207_v3_n12/635_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/635
+
+ID: 652
+Title: FM Reviews
+Abstract Length: 474 chars
+File: 19990201_v4_n2/652_FM Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/652
+
+ID: 706
+Title: FM Reviews
+Abstract Length: 467 chars
+File: 19991101_v4_n11/706_FM Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/706
+
+ID: 725
+Title: Book Reviews
+Abstract Length: 480 chars
+File: 20000103_v5_n1/725_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/725
+
+ID: 785
+Title: FM Reviews
+Abstract Length: 500 chars
+File: 20000807_v5_n8/785_FM Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/785
+
+ID: 800
+Title: FM Reviews
+Abstract Length: 449 chars
+File: 20001002_v5_n10/800_FM Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/800
+
+ID: 823
+Title: FM Reviews
+Abstract Length: 440 chars
+File: 20001204_v5_n12/823_FM Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/823
+
+ID: 831
+Title: Book Reviews
+Abstract Length: 446 chars
+File: 20010108_v6_n1/831_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/831
+
+ID: 843
+Title: Book Reviews
+Abstract Length: 509 chars
+File: 20010305_v6_n3/843_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/843
+
+ID: 863
+Title: Book reviews
+Abstract Length: 494 chars
+File: 20010507_v6_n5/863_Book reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/863
+
+ID: 869
+Title: Book reviews
+Abstract Length: 474 chars
+File: 20010604_v6_n6/869_Book reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/869
+
+ID: 875
+Title: Book reviews
+Abstract Length: 518 chars
+File: 20010702_v6_n7/875_Book reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/875
+
+ID: 888
+Title: Book reviews
+Abstract Length: 511 chars
+File: 20010903_v6_n9/888_Book reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/888
+
+ID: 901
+Title: Book reviews
+Abstract Length: 519 chars
+File: 20011105_v6_n11/901_Book reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/901
+
+ID: 910
+Title: Book reviews
+Abstract Length: 477 chars
+File: 20011203_v6_n12/910_Book reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/910
+
+ID: 934
+Title: Book Reviews
+Abstract Length: 489 chars
+File: 20020204_v7_n2/934_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/934
+
+ID: 946
+Title: Book Reviews
+Abstract Length: 511 chars
+File: 20020401_v7_n4/946_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/946
+
+ID: 966
+Title: Book Reviews
+Abstract Length: 515 chars
+File: 20020603_v7_n6/966_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/966
+
+ID: 990
+Title: Book Reviews
+Abstract Length: 494 chars
+File: 20020902_v7_n9/990_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/990
+
+ID: 1009
+Title: Book Reviews
+Abstract Length: 525 chars
+File: 20021104_v7_n11/1009_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1009
+
+ID: 1017
+Title: Book Reviews
+Abstract Length: 457 chars
+File: 20021202_v7_n12/1017_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1017
+
+ID: 1047
+Title: Book Reviews
+Abstract Length: 474 chars
+File: 20030407_v8_n4/1047_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1047
+
+ID: 1062
+Title: Book Reviews
+Abstract Length: 522 chars
+File: 20030602_v8_n6/1062_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1062
+
+ID: 1079
+Title: Book Reviews
+Abstract Length: 488 chars
+File: 20030901_v8_n9/1079_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1079
+
+ID: 1100
+Title: Book Reviews
+Abstract Length: 494 chars
+File: 20031103_v8_n11/1100_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1100
+
+ID: 1116
+Title: Book Reviews
+Abstract Length: 454 chars
+File: 20040105_v9_n1/1116_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1116
+
+ID: 1138
+Title: Book Reviews
+Abstract Length: 461 chars
+File: 20040405_v9_n4/1138_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1138
+
+ID: 1156
+Title: The educated blogger: Using Weblogs to promote literacy in the classro
+Abstract Length: 533 chars
+File: 20040607_v9_n6/1156_The educated blogger Using Weblogs to promote literacy in the classroom.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1156
+
+ID: 1157
+Title: Book Reviews
+Abstract Length: 487 chars
+File: 20040607_v9_n6/1157_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1157
+
+ID: 1462
+Title: Artists' earnings and copyright: A review of British and German music 
+Abstract Length: 551 chars
+File: 20040704_vSE_n1/1462_Artists' earnings and copyright A review of British and German music industry data in the context of.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1462
+
+ID: 1169
+Title: Book Reviews
+Abstract Length: 479 chars
+File: 20040802_v9_n8/1169_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1169
+
+ID: 1183
+Title: Book Reviews
+Abstract Length: 465 chars
+File: 20041004_v9_n10/1183_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1183
+
+ID: 1200
+Title: Artists’ earnings and copyright: A review of British and German music 
+Abstract Length: 551 chars
+File: 20050103_v10_n1/1200_Artists’ earnings and copyright A review of British and German music industry data in the context of.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1200
+
+ID: 1205
+Title: Book Reviews
+Abstract Length: 436 chars
+File: 20050103_v10_n1/1205_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1205
+
+ID: 1245
+Title: Book Reviews
+Abstract Length: 432 chars
+File: 20050502_v10_n5/1245_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1245
+
+ID: 1271
+Title: Book Reviews
+Abstract Length: 457 chars
+File: 20050801_v10_n8/1271_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1271
+
+ID: 1288
+Title: Book Reviews
+Abstract Length: 472 chars
+File: 20051003_v10_n10/1288_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1288
+
+ID: 1304
+Title: Book Reviews
+Abstract Length: 457 chars
+File: 20051205_v10_n12/1304_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1304
+
+ID: 1404
+Title: Book reviews
+Abstract Length: 455 chars
+File: 20060904_v11_n9/1404_Book reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1404
+
+ID: 1411
+Title: Book reviews
+Abstract Length: 466 chars
+File: 20061002_v11_n10/1411_Book reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/1411
+
+ID: 2000
+Title: Book Reviews
+Abstract Length: 451 chars
+File: 20070806_v12_n8/2000_Book Reviews.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2000
+
+ID: 2035
+Title: The Consequences of Information: Institutional Implications of Technol
+Abstract Length: 551 chars
+File: 20080505_v13_n5/2035_The Consequences of Information Institutional Implications of Technological Change by Jannis Kallini.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/2035
+
+ID: 3101
+Title: Blogs and blogging: Current trends and future directions
+Abstract Length: 449 chars
+File: 20110307_v16_n3/3101_Blogs and blogging Current trends and future directions.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/3101
+
+ID: 10561
+Title: Income or inconvenience? Digital video advertising adoption lags among
+Abstract Length: 490 chars
+File: 20210705_v26_n7/10561_Income or inconvenience Digital video advertising adoption lags among U.S. community newspapers.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/10561
+
+ID: 12586
+Title: Using data visualizations to study digital public spaces
+Abstract Length: 572 chars
+File: 20220404_v27_n4/12586_Using data visualizations to study digital public spaces.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/12586
+
+
+UNKNOWN (1 articles):
+--------------------------------------------------------------------------------
+ID: 630
+Title: First Monday Evolves: Editorial
+Abstract Length: 455 chars
+File: 19981207_v3_n12/630_First Monday Evolves Editorial.json
+URL: https://firstmonday.org/ojs/index.php/fm/article/view/630
+

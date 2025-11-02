@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:firstmonday.org)",
+      "WebSearch",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(cat:*)",
+      "Bash(for folder in \"v11_n5\" \"v11_n6\" \"v12_n1\" \"money, and Internet gift economies — 5 December 2005\")",
+      "Bash(do echo \"=== $folder ===\")",
+      "Bash(done)",
+      "Bash(git init)",
+      "Bash(git add -A)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nComplete First Monday scraper with YYYYMMDD folder format\n\nMajor features:\n- Full corpus scraper for First Monday journal (1996-2025)\n- Successfully scraped 353 issues with 2,710 articles\n- 100% full text extraction success rate\n- YYYYMMDD date format for folder organization\n\nComponents added:\n- scraper_by_issue.py: Main scraper with issue-based organization\n- scraper.py: Original article-based scraper\n- scrape_all.py: Non-interactive batch scraper\n- config.py: Configuration settings\n- rename_date_folders.py: Utility to convert existing folders to YYYYMMDD\n- rename_volume_folders.py: Utility to convert volume-formatted folders\n- analyze_scraping_results.py: Analysis and reporting tool\n- test_date_parsing.py: Date parsing validation\n\nDocumentation:\n- README.md: Project overview and setup\n- USAGE_GUIDE.md: How to use the scraper\n- SCRAPING_RESULTS_REPORT.md: Detailed analysis of scraping results\n- UPDATE_NOTES.md: YYYYMMDD format migration notes\n- SCRAPING_STATUS.md: Status tracking\n- TESTING_RESULTS.md: Testing documentation\n- CLAUDE.md: Project requirements and site analysis\n\nResults:\n- 353 issues organized in folders\n- 2,710 articles with complete metadata\n- 2,710 full text files (100% success)\n- 336 issues in YYYYMMDD format\n- 17 issues need manual folder renaming\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git add .gitignore)",
+      "Bash(git commit --amend --no-edit)",
+      "Bash(git remote add origin https://github.com/BigPhysh/firstmondayscraper.git)",
+      "Bash(git push -u origin master)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd combined metadata+fulltext JSON format\n\nNew Features:\n- combine_metadata_fulltext.py: Script to merge metadata and full text\n- COMBINED_DATA_FORMAT.md: Documentation with usage examples\n- Data/combined/: New directory with 2,710 unified JSON files\n\nChanges:\n- Successfully combined all 2,710 articles (100% success rate)\n- Each JSON contains metadata fields + full_text field\n- Organized by issue folders (353 issues total)\n- Updated .gitignore to document Data/ structure\n\nBenefits:\n- Single JSON file per article (easier to work with)\n- Ready for pandas, ML models, text analysis\n- Python usage examples included in documentation\n- No data loss - all metadata and full text preserved\n\nExample structure:\n{\n  \"article_id\": \"464\",\n  \"title\": \"...\",\n  \"authors\": [...],\n  \"keywords\": [...],\n  \"word_count\": 404,\n  \"full_text\": \"...\"\n}\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push)",
+      "Bash(rd /s /q \"Data\\combined\")",
+      "Bash(git commit -m \"$(cat <<''EOF''\nRename ''combined'' to ''articles'' for clarity\n\nChanges:\n- Renamed Data/combined/ to Data/articles/\n- Updated combine_metadata_fulltext.py to output to articles/\n- Updated COMBINED_DATA_FORMAT.md with new path references\n- Updated .gitignore documentation\n\nRationale:\n- \"articles\" is more intuitive than \"combined\"\n- Better reflects the content (complete article data)\n- Clearer for users accessing the corpus\n\nAll 2,710 articles remain in the same structure, just renamed folder.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd volume/issue numbers to article folder names\n\nChanges:\n- Created rename_articles_folders.py script\n- Renamed 350 article folders to include volume/issue info\n- New format: YYYYMMDD_vX_nY (e.g., 20250901_v30_n9)\n\nResults:\n- 350 folders renamed successfully\n- 3 folders skipped (missing metadata or already renamed)\n- Folders now show date, volume, and issue at a glance\n\nBenefits:\n- Easier to identify specific issues\n- Volume/issue info visible without opening files\n- Better organization for browsing corpus\n- Maintains chronological sorting by date prefix\n\nExamples:\n- 19960506 -> 19960506_v1_n1 (First issue)\n- 20250901 -> 20250901_v30_n9 (Latest issue)\n- v11_n5 -> v11_n5_v11_n5 (Already had v/n format)\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
